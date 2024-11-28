@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ahmad Juhdi</h1>
-<h3 align="center">A computer science from Indonesia</h3>
+<h3 align="center">A Passionate Software Engineer and Computer Science Enthusiast from Indonesia</h3>
+
+<p align="center">
+  I specialize in building robust and scalable applications, with a strong focus on mobile and web development. With a solid foundation in computer science and a deep interest in software engineering, I aim to create impactful projects that solve real-world problems.
+</p>
+
+<p align="center">
+  When I'm not coding, I enjoy exploring new technologies, contributing to open-source projects, and sharing knowledge within the developer community. Currently, I’m enhancing my expertise in Flutter, DevOps practices, and application security.
+</p>
+
+<p align="center">
+  🚀 Let’s collaborate and build something amazing! Feel free to reach out for project ideas or discussions.
+</p>
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh4dowbyte&label=Profile%20views&color=0e75b6&style=flat" alt="sh4dowbyte" /> </p>
 
